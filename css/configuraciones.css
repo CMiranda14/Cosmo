@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size:10px;
+    font-family:Sans-Serif;
+
+}
+
+:root{
+    --blanco :#FDFEFE;
+    --negro :#000000;
+    --gris :#D9D9D9;
+}
