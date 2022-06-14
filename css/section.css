@@ -1,5 +1,6 @@
 /*Cristopher*/
 .sec{
+    
     width:1366px;
     height:511px;
     margin:auto;
@@ -159,7 +160,7 @@
     width:3rem;
     height:3rem;
     border-radius:100%;
-    
+    cursor:pointer;
 
     margin-top:13.5rem;
     margin-left:23.8rem;
@@ -170,7 +171,7 @@
     width:9rem;
     height:9rem;
     border-radius:100%;
- 
+    cursor:pointer;
 
     margin-top:10.5rem;
     margin-left:40.5rem;
@@ -181,7 +182,7 @@
     width:6rem;
     height:6rem;
     border-radius:100%;
-
+    cursor:pointer;
 
     margin-top:12rem;
     margin-left:54.5rem;
@@ -192,7 +193,7 @@
     width:3rem;
     height:3rem;
     border-radius:100%;
-
+    cursor:pointer;
 
     margin-top:13.5rem;
     margin-left:77.8rem;
