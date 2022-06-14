@@ -1,0 +1,20 @@
+*{
+    margin: 1rem;
+    padding: 0;
+}
+span{
+    margin-left: 2rem;
+    font-family: 'Inter', sans-serif;
+    font-size: 2rem;
+}
+.conteiner{
+    height: 23rem;
+    display: flex;
+}
+.hijo{
+    margin: auto;
+    width: 20rem;
+    height: 27rem;
+    background-color: #D9D9D9;
+
+}
